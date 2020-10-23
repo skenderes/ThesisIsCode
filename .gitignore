@@ -11,3 +11,5 @@ gsaDocs/
 ThesisIsCode.Rproj
 
 thesis/yourThesisMarkdown_files/
+
+.Rbuildignore
